@@ -1,4 +1,4 @@
-## # 👋 Hola, soy Sergio Mora
+## 👋 Hola, soy Sergio Mora
 
 🚀 Desarrollador Backend Junior enfocado en APIs escalables
 💡 Construyo sistemas backend reales con enfoque en arquitectura, rendimiento y calidad
